@@ -41,3 +41,8 @@ coverage/
 *.temp
 output/
 uploads/
+database.db
+
+# Test scripts
+test_api.py
+test_video_api.py
