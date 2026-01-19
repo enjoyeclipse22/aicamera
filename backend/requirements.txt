@@ -1,0 +1,12 @@
+Flask
+Flask-CORS
+torch
+torchvision
+Pillow
+numpy
+opencv-python
+gunicorn
+wget
+transformers
+accelerate
+protobuf
